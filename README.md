@@ -19,7 +19,7 @@ A traditional Python CLI tool that uses the Google Calendar API to:
 
 ---
 
-### 2. `ai-agnt.py`
+### 2. `ai-agent.py`
 A full agentic implementation using:
 
 - 🧠 OpenAI's `gpt-4.1` model
