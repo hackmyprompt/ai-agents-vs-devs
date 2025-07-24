@@ -80,7 +80,7 @@ pip install -r requirements.txt
 ### ▶️ Traditional CLI
 
 ```bash
-python traditional_calendar_cli.py
+python traditional.py
 ```
 
 You'll be prompted to fetch or insert events using manual input.
@@ -90,7 +90,7 @@ You'll be prompted to fetch or insert events using manual input.
 ### 🤖 AI Calendar Agent
 
 ```bash
-python ai_calendar_agent.py
+python ai-agent.py
 ```
 
 Then just type things like:
